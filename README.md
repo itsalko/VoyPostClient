@@ -1,3 +1,6 @@
+### `npm install`
+Run it first to install all needed libraries
+
 
 ### `npm start`
 
