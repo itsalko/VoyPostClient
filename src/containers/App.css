@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.filters{
+  display: flex;
+}
+table{
+  margin:0 auto;
+}
