@@ -7,4 +7,4 @@ Run it first to install all needed libraries
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-##IMPORTANT: run server part first
+##`IMPORTANT: run server part first`
